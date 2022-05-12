@@ -1,6 +1,7 @@
 //Here we make B2 from data using published prefactors and from hmults!
 //I changed it to make it work in git for lower root file sizes
 //This example takes a root file with just one cetrality (0-5%) to save space in the root files
+//Used data files
 #include "fluct_common.h"
 #include "TString.h"
 #include "TLegend.h"
