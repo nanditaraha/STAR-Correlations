@@ -2,6 +2,7 @@
 //I changed it to make it work in git for lower root file sizes
 //This example takes a root file with just one cetrality (0-5%) to save space in the root files
 //Used data files
+//The _git indicates it is used in a way to work when all root files checked out properly from this repository.
 #include "fluct_common.h"
 #include "TString.h"
 #include "TLegend.h"
